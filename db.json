@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "image": "https://picsum.photos/200/300",
+      "price": 999.99,
+      "description": "The latest iPhone model with advanced features.",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "image": "https://picsum.photos/200/300",
+      "price": 899.99,
+      "description": "Powerful Android smartphone from Samsung.",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max",
+      "image": "https://picsum.photos/200/300",
+      "price": 129.99,
+      "description": "Stylish and comfortable athletic shoes.",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Adidas Stan Smith",
+      "image": "https://picsum.photos/200/300",
+      "price": 89.99,
+      "description": "Classic sneakers with a timeless design.",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Levi's 501 Jeans",
+      "image": "https://picsum.photos/200/300",
+      "price": 79.99,
+      "description": "Iconic denim jeans for a casual look.",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "iPhone 12",
+      "image": "https://picsum.photos/200/300",
+      "price": 999.99,
+      "description": "The latest iPhone model with advanced features.",
+      "category_id": 1
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy S21",
+      "image": "https://picsum.photos/200/300",
+      "price": 899.99,
+      "description": "Powerful Android smartphone from Samsung.",
+      "category_id": 1
+    },
+    {
+      "id": 9,
+      "name": "Adidas Stan Smith",
+      "image": "https://picsum.photos/200/300",
+      "price": 89.99,
+      "description": "Classic sneakers with a timeless design.",
+      "category_id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Phone"
+    },
+    {
+      "id": 2,
+      "name": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Category 3"
+    }
+  ],
+  "users": [
+    {
+      "username": "kienntph28920",
+      "password": "123",
+      "email": "kienntph28920@fpt.edu.vn",
+      "id": 9
+    },
+    {
+      "username": "kienntph289201",
+      "email": "kienntph289201@fpt.edu.vn",
+      "id": 10
+    },
+    {
+      "username": "kienntph289202",
+      "password": "123",
+      "email": "kienntph289202@fpt.edu.vn",
+      "id": 11
+    }
+  ],
+  "login": [
+    {
+      "username": "kienntph28920",
+      "password": "L8VfTbnZ@w!w2",
+      "id": 1
+    },
+    {
+      "username": "kienntph28920",
+      "password": "L8VfTbnZ@w!w2",
+      "id": 2
+    },
+    {
+      "username": "kienntph28920",
+      "password": "L8VfTbnZ@w!w2",
+      "id": 3
+    },
+    {
+      "username": "kienntph28920",
+      "password": "L8VfTbnZ@w!w2",
+      "id": 4
+    }
+  ],
+  "check-account": [
+    {
+      "username": "kienntph28920",
+      "email": "kienntph28920@fpt.edu.vn",
+      "id": 1
+    },
+    {
+      "username": "kienntph28920",
+      "email": "kienntph28920@fpt.edu.vn",
+      "id": 2
+    },
+    {
+      "username": "kienntph28920@fpt.edu.vn",
+      "email": "kienntph28920@fpt.edu.vn",
+      "id": 3
+    },
+    {
+      "username": "kienntph28920",
+      "email": "kienntph28920@fpt.edu.vn",
+      "id": 4
+    }
+  ]
+}
